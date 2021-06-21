@@ -14,6 +14,7 @@
 		7B74E91D25F6A70A00151169 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B74E91C25F6A70A00151169 /* Assets.xcassets */; };
 		7B74E92025F6A70A00151169 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B74E91F25F6A70A00151169 /* Preview Assets.xcassets */; };
 		7B74E92325F6A70A00151169 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B74E92125F6A70A00151169 /* LaunchScreen.storyboard */; };
+		7B8B9A6225F6DA1E00C07BA5 /* ToDoListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8B9A6125F6DA1E00C07BA5 /* ToDoListItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7B74E91F25F6A70A00151169 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B74E92225F6A70A00151169 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B74E92425F6A70A00151169 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B8B9A6125F6DA1E00C07BA5 /* ToDoListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				7B74E92425F6A70A00151169 /* Info.plist */,
 				7B74E91925F6A70900151169 /* ToDoList.xcdatamodeld */,
 				7B74E91E25F6A70A00151169 /* Preview Content */,
+				7B8B9A6125F6DA1E00C07BA5 /* ToDoListItem.swift */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				7B74E91425F6A70900151169 /* AppDelegate.swift in Sources */,
 				7B74E91625F6A70900151169 /* SceneDelegate.swift in Sources */,
 				7B74E91825F6A70900151169 /* ContentView.swift in Sources */,
+				7B8B9A6225F6DA1E00C07BA5 /* ToDoListItem.swift in Sources */,
 				7B74E91B25F6A70900151169 /* ToDoList.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
